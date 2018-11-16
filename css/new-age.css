@@ -248,6 +248,14 @@ section.bg-primary .feature-item i {
   color: white;
 }
 
+section.editor {
+  padding: 150px 0;
+  background-image: url("../img/editor.png");
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
 section.cta {
   padding: 200px 0;
   background-image: url("../img/showcase.png");
